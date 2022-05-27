@@ -47,7 +47,17 @@ for j in range(n):
         lst.append(st)
     print(bishop_attacking_r_not(lst))  
 
-
+#input in the form following type"
+#the position of bishop is denote by 'B'
+#so,
+'''****B***
+   ********
+   ********
+   ********
+   ******B*
+   ********
+   ********
+   ********'''
 
 
         
